@@ -1,95 +1,195 @@
-# PRACTICE 02
+## PRACTICE 05
 
-1. What is Postman primarily used for?
- - **Answer:** Testing APIs
-2. What is the purpose of the bind() method in socket programming?
- - **Answer:** To associate a socket with a specific network interface and port number
-3. What will the following command print to the Terminal? `git remote -v`
- - **Answer:** A list of remote repositories and their URLs
-4. Which of these terms best describes Git?
- - **Answer:** Distributed Version Control System
-5. Which of the following statements is true about JSON?
- - **Answer:** JSON objects must have unique keys
-6. In HTTP, what does the status code 200 represent?
- - **Answer:** Success
-7. What is the purpose of HTTP headers?
- - **Answer:** To carry metadata about the request or response
-8. What command would you use to create a new git repository?
- - **Answer:** git init
-9. What does JSON stand for?
- - **Answer:** JavaScript Object Notation
-10. What command lets you create a connection between a local and remote repository?
- - **Answer:** git remote add
-11. Which method is used by a server socket to accept a connection from a client?
- - **Answer:** accept()
-12. Which method is used to connect a client socket to a server?
- - **Answer:** connect()
-13. After you make changes to a local repository, you run the following command. What will
-this do? `git commit -a -m "Refactor code base"`
- - **Answer:** Adds all modified files to the staging area, then commits them with a message
-14. In HTTP GET request, which of these HTTP requests enables you to download a file called
-`min.css` located in `/docs/css/` folder in a website called `foodnetwork.com`
- - **Answer:** GET /docs/css/min.css HTTP/1.0
-15. Which function is used to create a new socket in Python?
- - **Answer:** socket.socket()
-16. Which of the following data types are supported in JSON?
- - **Answer:** String, Number, Boolean, Null, Object, Array
-17. What is the purpose of `__init__.py` in project directories?
- - **Answer:** It allows Python to recognise the folder as a package
-18. In socket programming, what is the maximum number of connections that can be queued
-using the `listen()` method?
- - **Answer:** It depends on the operating system and network configuration
+### 1. Which symbol is commonly used in text pattern searching to replace an unknown character or set of characters?  
+- A) Asterisk (*)  
+- B) Question mark (?)  
+- C) Both of the above  
+- D) None of the above  
 
-19. What is the difference between `git branch -d` and `git branch -D`?
- - **Answer:** -d deletes the local branch, while -D deletes the local branch regardless of push and
-merge status
-20. Which of the following is the main benefit of implementing REST to your web application?
- - **Answer:** Consumer of REST can be of any device as long as it can parse JSON, XML, or any
-markup language/notation
-21. What does the term "RESTful" mean?
- - **Answer:** Refers to an API that follows the principles of REST architecture
-22. HTTP status code range that indicates that a server error has occurred during the processing
-of a request from a client:
- - **Answer:** 5xx
-23. In JSON, which data structure is used to represent a collection of key/value pairs?
- - **Answer:** Object
-24. What is the role of the `listen()` method in a server socket?
- - **Answer:** It prepares the server to accept connections
-25. How can you check your current git version?
- - **Answer:** git --version
-26. Which of the following best describes REST?
- - **Answer:** An architectural style for designing networked applications
-27. Which HTTP status code indicates that a resource was not found?
- - **Answer:** 404
-28. Which HTTP status code is typically used to indicate a successful response in a REST API?
- - **Answer:** 200 OK
-29. If you cloned an existing git repository, what would happen?
- - **Answer:** A copy of the repository would be created on your local machine
+### 2. What is the purpose of the echo command in a batch script?  
+- A) To execute scripts  
+- B) To clear the screen  
+- C) To display messages or toggle command echoing  
+- D) To repeat commands  
 
-30. Which Git command begins tracking of a new file?
- - **Answer:** add
-31. How are JSON files typically formatted?
- - **Answer:** As plain text with key/value pairs
-32. What is the "RESTful" way of providing a list of books for a book website, e.g.,
-bookstore.com?
- - **Answer:** GET https://bookstore.com/books/
 
-33. What does the HTTP status code 500 indicate?
- - **Answer:** Server error
-34. Which command gets a copy of an existing Git repository?
- - **Answer:** clone
-35. What is the purpose of an HTTP GET request in a REST API?
- - **Answer:** To retrieve data from a resource
-36. Which of the following statements is true about XML?
- - **Answer:** XML is a software- and hardware-independent tool for carrying information
+### 3. Which terminal command allows you to see all CLI commands available for Windows Operating Systems?  
+- A) COMMANDS  
+- B) HELP  
+- C) ?  
+- D) OPTIONS  
 
-37. What is the primary purpose of the socket module in Python?
- - **Answer:** To create and manage network connections
-38. What are the equivalent of `\r\n` values (HTTP header fields separator) in hexadecimal
-value?
- - **Answer:** 0Dh and 0Ah
-39. What does XML stand for?
- - **Answer:** Extensible Markup Language
+### 4. What command do you use to display the contents of a text file in CMD?  
+- A) cat  
+- B) type  
+- C) display  
+- D) show  
 
-40. What is the name of sir roy? HAHA
- - **Answer:** Roy Cyril Dosado
+### 5. To make an application globally executable in the Windows OS, you must set its location to an environmental variable called:  
+- A) PATH  
+- B) SYSTEM32  
+- C) PROGRAMS  
+- D) FILES  
+
+### 6. How do you comment out a line in a batch file?  
+- A) :::  
+- B) REM  
+- C) #  
+- D) //  
+
+### 7. What is the shortcut to execute the "Run" dialog box in Windows?  
+- A) Windows logo + R  
+- B) Windows logo + Q  
+- C) Ctrl + R  
+- D) Ctrl + Shift + R  
+
+### 8. Which terminal command option in Windows is commonly used to display help text for a command?  
+- A) /?  
+- B) -?  
+- C) ??  
+- D) --?  
+
+### 9. Which interface allows users to execute commands via the terminal or console in an operating system, typically implemented as a text-based system?  
+- A) Graphical User Interface (GUI)  
+- B) Command Line Interface (CLI)  
+- C) Text-based Interface  
+- D) Common Unclassified Interface  
+
+### 10. The format of a Windows path includes folder names, a drive letter, a colon, and what other separator?  
+- A) Forward slash /  
+- B) Backslash \  
+- C) Pipe |  
+- D) Tilde ~  
+
+### 11. Which command is used to display the IP configuration of a computer in CMD?  
+- A) ifconfig  
+- B) ipshow  
+- C) ipconfig  
+- D) netconfig  
+
+### 12. What is the executable file name of the terminal application used in recent Windows operating systems?  
+- A) cmd.exe  
+- B) command.exe  
+- C) commander.exe  
+- D) command.com  
+
+### 13. What is the option in the dir command that displays only folders inside a directory?  
+- A) /AD  
+- B) /AH  
+- C) /ON  
+- D) /SA  
+
+### 14. What does the set command do in a batch file?  
+- A) It defines or displays environment variables  
+- B) It sets file permissions  
+- C) It starts services  
+- D) It configures network settings  
+
+### 15. To display an environment variable in the terminal, which command should be used?  
+- A) PRINT  
+- B) ECHO  
+- C) DISPLAY  
+- D) PRINTF  
+
+### 16. How do you append output to a file instead of overwriting it in CMD?  
+- A) append  
+- B) add  
+- C) >  
+- D) >>  
+
+### 17. Which operator allows you to combine multiple commands in one line?  
+- A) ||  
+- B) &&  
+- C) <<  
+- D) >  
+
+### 18. In the batch script expression `set /A var=5 % 2 * 3 + 4/2`, which arithmetic operation is executed first?  
+- A) Modulus  
+- B) Multiplication  
+- C) Addition  
+- D) Division  
+
+### 19. In batch scripts, what does the symbol ^ represent?  
+- A) AND  
+- B) Exclusive OR  
+- C) Exponent  
+- D) NOT  
+
+### 20. The terminal equivalent of the "Recycle Bin":  
+- A) NUL
+- B) VOID  
+- C) Trash  
+- D) NULL  
+
+### 21. In batch scripting, which variable signifies the return value of the last executed application, executable, or script?  
+- A) errorlevel  
+- B) returnvalue  
+- C) errorvalue  
+- D) pathvalue  
+
+### 22. Which command in a Windows terminal is similar to the Unix/Linux cat command and prints the contents of a file?  
+- A) type  
+- B) dir  
+- C) cls  
+- D) call  
+
+### 23. What is the role of the server in client-server architecture?  
+- A) Initiates requests and consumes services  
+- B) Only stores data without processing requests  
+- C) Passively monitors network traffic  
+- D) Provides services and responds to client requests  
+
+### 24. In batch scripting, which string comparison option allows for case-insensitive comparisons?  
+- A) /I  
+- B) /INS  
+- C) /S  
+- D) /IN  
+
+### 25. What is the standard port number for HTTP communication?  
+- A) 21  
+- B) 80  
+- C) 443  
+- D) 25  
+
+### 26. In terminal commands, what is the angle bracket `>` called?  
+- A) Refresh operator  
+- B) Redirection operator  
+- C) Construction operator  
+- D) Receiving operator  
+
+### 27. Which protocol is typically used with SOCK_STREAM sockets?  
+- A) UDP  
+- B) HTTP  
+- C) TCP  
+- D) FTP  
+
+# ANSWER
+
+1. C
+2. C
+3. B
+4. B
+5. A
+6. B 
+7. A 
+8. A
+9. B
+10. B
+11. C
+12. A
+13. A
+14. A
+15. B
+16. D 
+17. B
+18. A
+19. B
+20. A
+21. A
+22. A
+23. D
+24. A
+25. B
+26. B
+27. C
+
