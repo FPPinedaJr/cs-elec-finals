@@ -39,58 +39,57 @@ this do? `git commit -a -m "Refactor code base"`
 18. In socket programming, what is the maximum number of connections that can be queued
 using the `listen()` method?
  - **Answer:** It depends on the operating system and network configuration
-19. Which of the following is a correct XML element?
- - **Answer:** <name>John</name>
-20. What is the difference between `git branch -d` and `git branch -D`?
+
+19. What is the difference between `git branch -d` and `git branch -D`?
  - **Answer:** -d deletes the local branch, while -D deletes the local branch regardless of push and
 merge status
-21. Which of the following is the main benefit of implementing REST to your web application?
+20. Which of the following is the main benefit of implementing REST to your web application?
  - **Answer:** Consumer of REST can be of any device as long as it can parse JSON, XML, or any
 markup language/notation
-22. What does the term "RESTful" mean?
+21. What does the term "RESTful" mean?
  - **Answer:** Refers to an API that follows the principles of REST architecture
-23. HTTP status code range that indicates that a server error has occurred during the processing
+22. HTTP status code range that indicates that a server error has occurred during the processing
 of a request from a client:
  - **Answer:** 5xx
-24. In JSON, which data structure is used to represent a collection of key/value pairs?
+23. In JSON, which data structure is used to represent a collection of key/value pairs?
  - **Answer:** Object
-25. What is the role of the `listen()` method in a server socket?
+24. What is the role of the `listen()` method in a server socket?
  - **Answer:** It prepares the server to accept connections
-26. How can you check your current git version?
+25. How can you check your current git version?
  - **Answer:** git --version
-27. Which of the following best describes REST?
+26. Which of the following best describes REST?
  - **Answer:** An architectural style for designing networked applications
-28. Which HTTP status code indicates that a resource was not found?
+27. Which HTTP status code indicates that a resource was not found?
  - **Answer:** 404
-29. Which HTTP status code is typically used to indicate a successful response in a REST API?
+28. Which HTTP status code is typically used to indicate a successful response in a REST API?
  - **Answer:** 200 OK
-30. If you cloned an existing git repository, what would happen?
+29. If you cloned an existing git repository, what would happen?
  - **Answer:** A copy of the repository would be created on your local machine
-31. Which of the following is NOT a valid XML attribute?
- - **Answer:** <item price=20>
-32. Which Git command begins tracking of a new file?
+
+30. Which Git command begins tracking of a new file?
  - **Answer:** add
-33. How are JSON files typically formatted?
+31. How are JSON files typically formatted?
  - **Answer:** As plain text with key/value pairs
-34. What is the "RESTful" way of providing a list of books for a book website, e.g.,
+32. What is the "RESTful" way of providing a list of books for a book website, e.g.,
 bookstore.com?
  - **Answer:** GET https://bookstore.com/books/
-35. Which of the following is a correct JSON object?
- - **Answer:** {"name": "John", "age": 30}
-36. What does the HTTP status code 500 indicate?
+
+33. What does the HTTP status code 500 indicate?
  - **Answer:** Server error
-37. Which command gets a copy of an existing Git repository?
+34. Which command gets a copy of an existing Git repository?
  - **Answer:** clone
-38. What is the purpose of an HTTP GET request in a REST API?
+35. What is the purpose of an HTTP GET request in a REST API?
  - **Answer:** To retrieve data from a resource
-39. Which of the following statements is true about XML?
+36. Which of the following statements is true about XML?
  - **Answer:** XML is a software- and hardware-independent tool for carrying information
-40. Which of the following is NOT a valid JSON array?
- - **Answer:** ["name": "John", "age": 30]
-41. What is the primary purpose of the socket module in Python?
+
+37. What is the primary purpose of the socket module in Python?
  - **Answer:** To create and manage network connections
-42. What are the equivalent of `\r\n` values (HTTP header fields separator) in hexadecimal
+38. What are the equivalent of `\r\n` values (HTTP header fields separator) in hexadecimal
 value?
  - **Answer:** 0Dh and 0Ah
-43. What does XML stand for?
+39. What does XML stand for?
  - **Answer:** Extensible Markup Language
+
+40. What is the name of sir roy? HAHA
+ - **Answer:** Roy Cyril Dosado
