@@ -182,7 +182,7 @@
     - A copy of the repository would be created on the hosting platform.  
 
 31. **Which of the following is NOT a valid XML attribute?**  
-    - `<item price="20"> ` 
+    - `<item price="20"> ` `
     - `<item price='20'>  `
     - `<item price="twenty"> ` 
     - **`<item price=20>`**  
